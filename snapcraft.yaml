@@ -1,7 +1,7 @@
 name:  openclonk-game
 title:  OpenClonk
 version: "7.0"
-summary:   OpenClonk is a free multiplayer action game in which you control clonks, small but witty and nimble humanoid beings. The game is mainly about mining, settling and fast-paced melees.
+summary:   OpenClonk is a free multiplayer action game
 
 description: |
   OpenClonk is a project dedicated to the further development of the Clonk game series. Our goal is to improve and make the real strengths of Clonk more fun to play: Bustling mining, production lines and economy, fast and fiddly melees. Another focus lies on the further enchancement of the game engine and the extensibility/modability of the game content with C4Script which has always been one of the most important features of Clonk.
